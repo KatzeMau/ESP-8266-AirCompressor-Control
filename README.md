@@ -14,6 +14,9 @@ More Pictures are coming soon!
 ![WebInterface](https://github.com/KatzeMau/ESP-8266-AirCompressor-Control/blob/main/Pictures/WebInterface.png?raw=true)
 ![Electronics](https://github.com/KatzeMau/ESP-8266-AirCompressor-Control/blob/main/Pictures/Electronics.jpg?raw=true)
 
+The wooden box i made:
+![Outdoor1.jpg](https://github.com/KatzeMau/ESP-8266-AirCompressor-Control/blob/main/Pictures/Outdoor1.jpg?raw=true)
+![Outdoor2.jpg](https://github.com/KatzeMau/ESP-8266-AirCompressor-Control/blob/main/Pictures/Outdoor1.jpg?raw=true)
 
 
 You need to following libraries: 
